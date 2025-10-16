@@ -16,6 +16,7 @@
       "id": 2,
       "name": "Standard Plan",
       "price": 45,
+      "popular": true,
       "duration": "per month",
       "features": [
         "Full gym + cardio zone access",
