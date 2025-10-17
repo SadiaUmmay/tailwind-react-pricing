@@ -1,0 +1,13 @@
+[
+    { "id": 1, "name": "Ayaan Rahman", "chemistry": 78, "math": 85, "physics": 80 },
+    { "id": 2, "name": "Meher Afroz", "chemistry": 92, "math": 89, "physics": 95 },
+    { "id": 3, "name": "Rafi Khan", "chemistry": 67, "math": 74, "physics": 70 },
+    { "id": 4, "name": "Sadia Alam", "chemistry": 88, "math": 90, "physics": 84 },
+    { "id": 5, "name": "Tanzim Hossain", "chemistry": 76, "math": 82, "physics": 79 },
+    { "id": 6, "name": "Mithila Akter", "chemistry": 95, "math": 91, "physics": 89 },
+    { "id": 7, "name": "Nafis Chowdhury", "chemistry": 81, "math": 87, "physics": 83 },
+    { "id": 8, "name": "Rumi Islam", "chemistry": 69, "math": 72, "physics": 65 },
+    { "id": 9, "name": "Farhan Ahmed", "chemistry": 85, "math": 88, "physics": 90 },
+    { "id": 10, "name": "Sabrina Noor", "chemistry": 90, "math": 93, "physics": 94 }
+  ]
+  
